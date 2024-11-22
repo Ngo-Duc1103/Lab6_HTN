@@ -1,0 +1,5 @@
+../Core/Src/draw_line_chart.c:42:6:draw_line_chart	4
+../Core/Src/draw_line_chart.c:96:6:SaveHistory	2
+../Core/Src/draw_line_chart.c:103:6:RestorePreviousHistory	3
+../Core/Src/draw_line_chart.c:115:6:RestoreNextHistory	2
+../Core/Src/draw_line_chart.c:123:6:LineChart	3

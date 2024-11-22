@@ -1,0 +1,11 @@
+../Core/Src/main.c:87:5:main	3
+../Core/Src/main.c:154:6:SystemClock_Config	3
+../Core/Src/main.c:197:6:system_init	1
+../Core/Src/main.c:210:6:test_LedDebug	2
+../Core/Src/main.c:217:9:isButtonUp	2
+../Core/Src/main.c:225:9:isButtonDown	2
+../Core/Src/main.c:233:9:isButtonRight	2
+../Core/Src/main.c:243:6:check_led	5
+../Core/Src/main.c:265:6:test_Adc	3
+../Core/Src/main.c:319:6:test_Buzzer	4
+../Core/Src/main.c:352:6:Error_Handler	1
